@@ -78,6 +78,6 @@ Currently, I’m continuously learning and building new projects around:
 
 - 📧 Email: **hikambaidawih@gmail.com**  
 - 💼 LinkedIn: [M. Hikam Baidawih](www.linkedin.com/in/hikambaidawih)  
-- 🧑‍💻 GitHub: [@<your-github-username>](https://github.com/hikambdwh)
+- 🧑‍💻 GitHub: [@hikambdwh](https://github.com/hikambdwh)
 
 <!-- Thanks for visiting my profile 👋 -->
