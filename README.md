@@ -74,33 +74,6 @@ Currently, I’m continuously learning and building new projects around:
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Replace <your-github-username> before using -->
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hikambdwh&show_icons=true&theme=transparent" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=hikambdwh&theme=transparent" 
-    alt="GitHub Streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikambdwh&layout=compact&theme=transparent" 
-    alt="Top Languages" 
-  />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 - 📧 Email: **hikambaidawih@gmail.com**  
