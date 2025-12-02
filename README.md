@@ -11,7 +11,7 @@ For example: hikambaidawih
 
 <p align="center">
   <a href="mailto:hikambaidawih@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-hikambaidawih%40gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hikambaidawih/">
     <img src="https://img.shields.io/badge/LinkedIn-M.%20Hikam%20Baidawih-blue?style=flat&logo=linkedin" />
