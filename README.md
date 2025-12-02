@@ -17,7 +17,7 @@ For example: hikambaidawih
     <img src="https://img.shields.io/badge/LinkedIn-M.%20Hikam%20Baidawih-blue?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/hikambdwh">
-    <img src="https://img.shields.io/github/followers/<your-github-username>?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/hikambdwh?label=Follow&style=social" />
   </a>
 </p>
 
