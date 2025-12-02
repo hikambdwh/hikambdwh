@@ -50,8 +50,8 @@ For example: hikambaidawih
 
 **Business Intelligence & Dashboarding:**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 **Web & Tools:**
