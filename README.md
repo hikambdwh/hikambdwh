@@ -73,7 +73,8 @@ Currently, I’m continuously learning and building new projects around:
 
 - Data cleaning & feature engineering  
 - Machine learning models for business problems  
-- Data visualization & dashboard storytelling  
+- Data visualization & dashboard storytelling
+- Web Development
 
 ---
 
